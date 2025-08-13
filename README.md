@@ -6,3 +6,9 @@ The goal is to improve problem-solving skills and prepare for coding interviews.
 ---
 
 ## 📂 Folder Structure
+### Arrays
+| Problem | Code | Platform |
+|---------|------|----------|
+| Days of the week program | [Days.java](Arrays/Days.java) | Custom |
+
+
